@@ -175,6 +175,7 @@ div.progress-bar > span {
   
 .progress-bar {
     font-size: 100%;
+    background-color: #2196f3;
   }
   
 .skill-level {
