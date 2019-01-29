@@ -114,6 +114,10 @@ body {
   }
 .socials a {
     display: inline-block;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
     text-align: center;
     color: #000;
     border: 1px solid #000;
